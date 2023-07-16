@@ -1,0 +1,9 @@
+body {
+  background-color: lightsteelblue;
+}
+image center {
+  width: 500px auto;
+  height: 400px auto;
+  display: block;
+  text-align: center;
+}
